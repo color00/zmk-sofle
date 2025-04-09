@@ -2,7 +2,7 @@
 
 <img src="keymap-drawer/eyelash_sofle.svg" >
 
-GASC Home Row Mods based on [jamiethemorris's home row mods](https://github.com/jamiethemorris/zmk-config/blob/master/config/sofle.keymap).
+GASC Home Row Mods based on [jamiethemorris's config](https://github.com/jamiethemorris/zmk-config/blob/master/config/sofle.keymap).
 
 From [eyelash_sofle.keymap](https://github.com/color00/zmk-sofle/blob/main/config/eyelash_sofle.keymap)
 ```
